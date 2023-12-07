@@ -19,5 +19,6 @@ members = [
     "restaurant",
     "ch08",
     "ch09",
-    "ch10"
+    "ch10",
+    "ch11"
 ]
