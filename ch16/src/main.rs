@@ -114,6 +114,7 @@ fn mutex() {
         handle.join().unwrap();
     }
     println!("Result: {}", *counter.lock().unwrap());
+    
 }
 
 fn main() {
